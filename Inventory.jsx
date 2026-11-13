@@ -1,4 +1,4 @@
-import Ingredient from './Ingredient.jsx';
+import Ingredient from './Ingredients.jsx';
 
 function Inventory(props) {
   return (
